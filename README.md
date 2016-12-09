@@ -10,4 +10,4 @@ There are no additional dependencies required to run this. It's compatible with 
 
 Here's a gif to demonstrate!
 
-[![gif](http://i.imgur.com/JpM0w7z.gif)]
+![gif](http://i.imgur.com/JpM0w7z.gif)
